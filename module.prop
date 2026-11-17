@@ -1,0 +1,8 @@
+id=ghx_game_pro
+name=智能游戏优化 Pro
+version=3.0
+versionCode=3
+author=ghx
+description=自动识别前台游戏，按游戏分别调 CPU/GPU/内存/渲染/网络，退出自动恢复；支持自定义游戏名单与黑白名单。
+banner=banner.jpg
+axeronPlugin=10400
